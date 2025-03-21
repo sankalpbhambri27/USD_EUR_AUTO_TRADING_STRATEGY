@@ -1,0 +1,12 @@
+ipykernel
+pandas
+pandas_ta
+pandas_datareader
+Backtesting
+nbformat==4.2.0
+yfinance
+numpy
+tqdm
+plotly
+matplotlib
+-e .
